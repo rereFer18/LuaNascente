@@ -10,7 +10,7 @@
 
 body {
   font-family: "Open Sans", sans-serif;
-  color: #272829;
+  color: #FA8072;
 }
 
 a {
@@ -78,7 +78,7 @@ h6 {
   z-index: 9997;
   transition: all 0.5s;
   padding: 0 15px;
-  background: #c6ce6f7b;
+  background: #ff9c9198;
   overflow-y: auto;
 }
 
@@ -86,7 +86,7 @@ h6 {
   margin: 15px auto;
   display: block;
   width: 120px;
-  border: 8px solid #abbaae;
+  border: 8px solid #FA8072;
 }
 
 #header .profile h1 {
@@ -266,18 +266,18 @@ h6 {
   font-size: 64px;
   font-weight: 700;
   line-height: 56px;
-  color: rgb(87, 96, 4);
+  color: #000000;
 }
 
 #hero p {
-  color: rgb(238, 229, 229);
+  color: rgb(0, 0, 0);
   margin-bottom: 50px;
   font-size: 26px;
   font-family: "Poppins", sans-serif;
 }
 
 #hero p span {
-  color: rgb(88, 92, 5);
+  color: rgb(0, 0, 0);
   padding-bottom: 4px;
   letter-spacing: 1px;
   border-bottom: 3px solid #149ddd;
@@ -324,7 +324,7 @@ section {
   margin-bottom: 20px;
   padding-bottom: 20px;
   position: relative;
-  color: #173b6c;
+  color: #FA8072;
 }
 
 .section-title h2::after {
@@ -348,7 +348,7 @@ section {
 .about .content h3 {
   font-weight: 700;
   font-size: 26px;
-  color: #173b6c;
+  color: #000000;
 }
 
 .about .content ul {
@@ -369,7 +369,7 @@ section {
 .about .content ul i {
   font-size: 16px;
   margin-right: 5px;
-  color: #149ddd;
+  color: #FA8072;
   line-height: 0;
 }
 
@@ -392,7 +392,7 @@ section {
 .facts .count-box i {
   display: block;
   font-size: 44px;
-  color: #149ddd;
+  color: #FA8072;
   float: left;
   line-height: 0;
 }
@@ -411,14 +411,14 @@ section {
   margin: 0 0 0 60px;
   font-family: "Raleway", sans-serif;
   font-size: 14px;
-  color: #122f57;
+  color: #FA8072;
 }
 
 .facts .count-box a {
   font-weight: 600;
   display: block;
   margin-top: 20px;
-  color: #122f57;
+  color:#FA8072;
   font-size: 15px;
   font-family: "Poppins", sans-serif;
   transition: ease-in-out 0.3s;
@@ -462,7 +462,7 @@ section {
   width: 1px;
   height: 10px;
   transition: 0.9s;
-  background-color: #149ddd;
+  background-color: #e490e1;
 }
 
 /*--------------------------------------------------------------
